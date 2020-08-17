@@ -4,6 +4,9 @@ windows auto reboot
 shutdown -r -t 0  
 shutdown -a  
 
+windows startup folder  
+windows+r , shell:startup  
+
 regedit  
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon  
 https://dora-guide.com/windows-auto-login/  
