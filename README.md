@@ -15,3 +15,4 @@ password setting
 https://vincetory.com/7  
 
 노트북 절전모드 방지
+
